@@ -29,4 +29,3 @@ This project involves the creation of a comprehensive booking system for Little 
 1. Commit your project to GitHub.
 2. Provide a link to your GitHub repository.
 
-## Project Structure
