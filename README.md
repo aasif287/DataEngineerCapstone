@@ -25,7 +25,5 @@ This project involves the creation of a comprehensive booking system for Little 
 - Analyze data using the provided Little Lemon data file in Tableau.
 - Create relevant diagrams, worksheets, and dashboards to present data insights.
 
-## How to Submit
-1. Commit your project to GitHub.
-2. Provide a link to your GitHub repository.
+
 
